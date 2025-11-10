@@ -11,4 +11,4 @@ I am a Postdoctoral Research Associate working at the <a href="https://www.kent.
 
 My current research focuses on the evaluation of trust in dynamic and large-scale network environments, making use of subjective logic in order to reason about trust in the presence of uncertainty.
 
-I am always open to discussing research ideas and opportunities for collaboration, so please <a href="mailto:J.Pont@kent.ac.uk>">contact me</a> if you would like to work with me.
+This site is currently a work-in-progress. As such, please <a href="mailto:J.Pont@kent.ac.uk>">contact me</a> if you have any questions, or would like to discuss research ideas and/or opporunities for collaboration.
